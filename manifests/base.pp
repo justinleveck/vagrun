@@ -33,4 +33,3 @@ $mysql_password = 'fatality'
 $user = 'vagrant'
 
 # Include all the necessary modules here
-include nginx, mysql, htop, unicorn
